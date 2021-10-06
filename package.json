@@ -20,11 +20,11 @@
     },
     "main" : "./lib/tuntap.js",
     "dependencies" : {
-        "ioctl" : "0.0.4",
-        "ref" : "",
-        "ref-struct" : "",
-        "ref-union" : "",
-        "ref-array" : "",
+        "ioctl" : "",
+        "ref-napi" : "",
+        "ref-struct-napi" : "",
+        "ref-union-napi" : "",
+        "ref-array-napi" : "",
         "errno" : "0.1.x"
     }
 }
